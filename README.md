@@ -1,2 +1,2 @@
-# dostavista-pokemony
+# dostavista-hackathon
 
